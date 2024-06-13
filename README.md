@@ -1,4 +1,4 @@
-# Tugas 8
+# Tugas Koneksi
 
 Koneksi Database Mysql Ke PHP
 Judul "Sistem Penjualan Buku"
